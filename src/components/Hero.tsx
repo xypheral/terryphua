@@ -8,7 +8,7 @@ const Hero = () => {
     <section className="flex flex-col-reverse md:flex-row items-center justify-center p-10 md:p-20 mt-20">
       <div className="md:w-3/5 space-y-5 md:mr-4">
         <h1 className="text-5xl font-bold text-gray-800">Hello, I'm Terry Phua</h1>
-        <p className="text-2xl text-gray-800">I love peppy he is so cute</p>
+        <p className="text-2xl text-gray-800">I love young girls who are under the age of 14!</p>
       </div>
       <motion.div
   className="w-full md:w-2/5 mt-10 md:mt-0"
