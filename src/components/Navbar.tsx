@@ -12,10 +12,10 @@ const Navbar = () => {
                         <Image src={Icon} alt="Home" height={64} width={64} />
                     </Link>
                 </li>
-                <li className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-700 to-purple-500 hover:text-white transition duration-300">
+                <li className="text-xl font-bold bg-clip-text text-transparent text-black hover:text-white transition duration-300">
                     <Link href="/about">About</Link>
                 </li>
-                <li className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-700 to-purple-500 hover:text-white transition duration-300">
+                <li className="text-xl font-bold bg-clip-text text-transparent text-black hover:text-white transition duration-300">
                     <Link href="/contact">Contact</Link>
                 </li>
             </ul>
