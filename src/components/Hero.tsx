@@ -20,7 +20,7 @@ const Hero = () => {
             damping: 20
         }}
       >
-        <Image src={heroImage} alt="John Doe" layout="responsive" width={640} height={480} className="w-full h-auto md:h-400" />
+        <Image src={heroImage} alt="John Doe" width={640} height={480} className="w-full h-auto md:h-400" />
       </motion.div>
     </div>
   );
