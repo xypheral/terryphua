@@ -16,6 +16,9 @@ const Navbar = () => {
                     <Link href="/about">About</Link>
                 </li>
                 <li className="text-xl font-bold bg-clip-text text-black hover:text-white transition duration-300">
+                    <Link href="/projects">Projects</Link>
+                </li>
+                <li className="text-xl font-bold bg-clip-text text-black hover:text-white transition duration-300">
                     <Link href="/contact">Contact</Link>
                 </li>
             </ul>
