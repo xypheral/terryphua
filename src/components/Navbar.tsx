@@ -21,9 +21,6 @@ const Navbar = () => {
                 <li className="text-xl font-bold bg-clip-text text-black hover:text-white transition duration-300">
                     <Link href="/contact">Contact</Link>
                 </li>
-                <li className="text-xl font-bold bg-clip-text text-black hover:text-white transition duration-300">
-                    <Link href="/product">Product</Link>
-                </li>
             </ul>
         </nav>
     );
