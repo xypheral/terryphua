@@ -10,7 +10,7 @@ const Middle = () => {
                 {projects.slice(0, 4).map((project) => (
                     <a key={project.id} href={project.href} className="group">
                         <div className="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7">
-                        <img src={project.imageSrc}/>
+                            <img src={project.images[0].src} alt={project.images[0].alt} />
                         </div>
                         <h3 className="mt-4 text-sm font-bold text-gray-900">{project.name}</h3>
                         <p className="mt-1 text-sm font-medium text-gray-600">{project.desc}</p>

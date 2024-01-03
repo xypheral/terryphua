@@ -1,33 +1,66 @@
 [
-    {
-      "id": 1,
-      "name": "Singapore MRT Environment",
-      "href": "/projects/1",
-      "desc": "Description",
-      "imageSrc": "https://cdnb.artstation.com/p/assets/covers/images/064/302/747/20230624045416/smaller_square/cheng-hong-terry-phua-cheng-hong-terry-phua-the-last-300-1.jpg?1687600456",
-      "image2": "https://cdna.artstation.com/p/assets/images/images/064/302/580/large/cheng-hong-terry-phua-screenshot-2023-06-24-174405.jpg?1687599908",
-      "video": "https://youtu.be/dhBgDLYx0Ok"
-    },
-    {
-      "id": 2,
-      "name": "The Last 300 Game Environment",
-      "href": "/projects/2",
-      "desc": "Description",
-      "imageSrc": "https://cdna.artstation.com/p/assets/covers/images/064/302/898/smaller_square/cheng-hong-terry-phua-cheng-hong-terry-phua-the-last-300-3.jpg?1687600773",
-      "image2": "https://cdnb.artstation.com/p/assets/images/images/064/302/233/large/cheng-hong-terry-phua-the-last-300.jpg?1687598956"
-    },
-    {
-      "id": 3,
-      "name": "Singapore Merlion",
-      "href": "/projects/3",
-      "desc": "Description",
-      "imageSrc": "https://cdnb.artstation.com/p/assets/video_clips/images/046/321/555/smaller_square/cheng-hong-terry-phua-thumb.jpg?1644849016"
-    },
-    {
-      "id": 4,
-      "name": "Singapore Playground Dragon",
-      "href": "/projects/4",
-      "desc": "Description",
-      "imageSrc": "https://cdnb.artstation.com/p/assets/covers/images/046/582/039/smaller_square/cheng-hong-terry-phua-cheng-hong-terry-phua-tbrender.jpg?1645465734"
-    }
-  ]
+  {
+    "id": 1,
+    "name": "Singapore MRT Environment",
+    "href": "/projects/1",
+    "desc": "Description",
+    "images": [
+      {
+        "src": "https://cdnb.artstation.com/p/assets/covers/images/064/302/747/20230624045416/smaller_square/cheng-hong-terry-phua-cheng-hong-terry-phua-the-last-300-1.jpg?1687600456",
+        "alt": "Image 1"
+      },
+      {
+        "src": "https://cdna.artstation.com/p/assets/images/images/064/302/580/large/cheng-hong-terry-phua-screenshot-2023-06-24-174405.jpg?1687599908",
+        "alt": "Image 2"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "The Last 300 Game Environment",
+    "href": "/projects/2",
+    "desc": "Description",
+    "images": [
+      {
+        "src": "https://cdna.artstation.com/p/assets/covers/images/064/302/898/smaller_square/cheng-hong-terry-phua-cheng-hong-terry-phua-the-last-300-3.jpg?1687600773",
+        "alt": "Image 1"
+      },
+      {
+        "src": "https://cdnb.artstation.com/p/assets/images/images/064/302/233/large/cheng-hong-terry-phua-the-last-300.jpg?1687598956",
+        "alt": "Image 2"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Singapore Merlion",
+    "href": "/projects/3",
+    "desc": "Description",
+    "images": [
+      {
+        "src": "https://cdnb.artstation.com/p/assets/video_clips/images/046/321/555/smaller_square/cheng-hong-terry-phua-thumb.jpg?1644849016",
+        "alt": "Image 1"
+      },
+      {
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMBAlI6a1yr71frtUFSVQwvL-rPW0EOjV_tv3cWCYpnFhvka3m",
+        "alt": "Image 2"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Singapore Playground Dragon",
+    "href": "/projects/4",
+    "desc": "Description",
+    "images": [
+      {
+        "src": "https://cdnb.artstation.com/p/assets/covers/images/046/582/039/smaller_square/cheng-hong-terry-phua-cheng-hong-terry-phua-tbrender.jpg?1645465734",
+        "alt": "Image 1"
+      },
+      {
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMBAlI6a1yr71frtUFSVQwvL-rPW0EOjV_tv3cWCYpnFhvka3m",
+        "alt": "Image 2"
+      }
+    ]
+  }
+]
