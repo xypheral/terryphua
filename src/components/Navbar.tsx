@@ -5,7 +5,7 @@ import Icon from '../images/icon.png';
 
 const Navbar = () => {
     return (
-        <nav className="bg-gray-600 bg-opacity-10 p-4 mt-0 w-full fixed top-0 z-10 flex items-center h-16">
+        <nav className="bg-gray-600 bg-opacity-10 mt-0 w-full fixed top-0 z-10 flex items-center h-16">
             <ul className="flex justify-start space-x-8 items-center h-full ml-20">
                 <li className="text-xl bg-clip-text text-transparent">
                     <Link href="/">
