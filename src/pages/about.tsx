@@ -1,9 +1,11 @@
 import RootLayout from "@/app/layout"
+import Alert from "@/components/alerts/Alert"
 
 export default function About() {
   return (
     <RootLayout title="About">
     <div className="p-20 mt-10">
+      <Alert />
       <div className="px-4 sm:px-0">
         <h3 className="text-base font-semibold leading-7 text-gray-900">Personal Information</h3>
         <p className="mt-1 max-w-2xl text-sm leading-6 text-gray-500">Personal details and application.</p>
