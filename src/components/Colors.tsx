@@ -1260,6 +1260,153 @@ const Colors = () => {
         </div>
     </div> 
 
+    {/* Violet */}
+    <div className="flex mb-5">
+    <div className="font-bold w-32 p-4">Violet</div>
+        <div className="flex flex-grow justify-center">
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-violet-50 rounded"></div>
+                <div className="font-bold">50</div>
+                <div className="uppercase text-gray-700">#f5f3ff</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-violet-100 rounded"></div>
+                <div className="font-bold">100</div>
+                <div className="uppercase text-gray-700">#ede9fe</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-violet-200 rounded"></div>
+                <div className="font-bold">200</div>
+                <div className="uppercase text-gray-700">#ddd6fe</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-violet-300 rounded"></div>
+                <div className="font-bold">300</div>
+                <div className="uppercase text-gray-700">#c4b5fd</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-violet-400 rounded"></div>
+                <div className="font-bold">400</div>
+                <div className="uppercase text-gray-700">#a78bfa</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-violet-500 rounded"></div>
+                <div className="font-bold">500</div>
+                <div className="uppercase text-gray-700">#8b5cf6</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-violet-600 rounded"></div>
+                <div className="font-bold">600</div>
+                <div className="uppercase text-gray-700">#7c3aed</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-violet-700 rounded"></div>
+                <div className="font-bold">700</div>
+                <div className="uppercase text-gray-700">#6d28d9</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-violet-800 rounded"></div>
+                <div className="font-bold">800</div>
+                <div className="uppercase text-gray-700">#5b21b6</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-violet-900 rounded"></div>
+                <div className="font-bold">900</div>
+                <div className="uppercase text-gray-700">#4c1d95</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-violet-950 rounded"></div>
+                <div className="font-bold">950</div>
+                <div className="uppercase text-gray-700">#2e1065</div>
+            </div>
+
+        </div>
+    </div> 
+
+    {/* Purple */}
+    <div className="flex mb-5">
+    <div className="font-bold w-32 p-4">Purple</div>
+        <div className="flex flex-grow justify-center">
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-purple-50 rounded"></div>
+                <div className="font-bold">50</div>
+                <div className="uppercase text-gray-700">#faf5ff</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-purple-100 rounded"></div>
+                <div className="font-bold">100</div>
+                <div className="uppercase text-gray-700">#f3e8ff</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-purple-200 rounded"></div>
+                <div className="font-bold">200</div>
+                <div className="uppercase text-gray-700">#e9d5ff</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-purple-300 rounded"></div>
+                <div className="font-bold">300</div>
+                <div className="uppercase text-gray-700">#d8b4fe</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-purple-400 rounded"></div>
+                <div className="font-bold">400</div>
+                <div className="uppercase text-gray-700">#c084fc</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-purple-500 rounded"></div>
+                <div className="font-bold">500</div>
+                <div className="uppercase text-gray-700">#a855f7</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-purple-600 rounded"></div>
+                <div className="font-bold">600</div>
+                <div className="uppercase text-gray-700">#9333ea</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-purple-700 rounded"></div>
+                <div className="font-bold">700</div>
+                <div className="uppercase text-gray-700">#7e22ce</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-purple-800 rounded"></div>
+                <div className="font-bold">800</div>
+                <div className="uppercase text-gray-700">#6b21a8</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-purple-900 rounded"></div>
+                <div className="font-bold">900</div>
+                <div className="uppercase text-gray-700">#581c87</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-purple-950 rounded"></div>
+                <div className="font-bold">950</div>
+                <div className="uppercase text-gray-700">#3b0764</div>
+            </div>
+
+        </div>
+    </div> 
 
     </div>
   );
