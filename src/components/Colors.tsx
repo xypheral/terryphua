@@ -1408,6 +1408,228 @@ const Colors = () => {
         </div>
     </div> 
 
+    {/* Fuchsia */}
+    <div className="flex mb-5">
+    <div className="font-bold w-32 p-4">Fuchsia</div>
+        <div className="flex flex-grow justify-center">
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-fuchsia-50 rounded"></div>
+                <div className="font-bold">50</div>
+                <div className="uppercase text-gray-700">#fdf4ff</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-fuchsia-100 rounded"></div>
+                <div className="font-bold">100</div>
+                <div className="uppercase text-gray-700">#fae8ff</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-fuchsia-200 rounded"></div>
+                <div className="font-bold">200</div>
+                <div className="uppercase text-gray-700">#f5d0fe</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-fuchsia-300 rounded"></div>
+                <div className="font-bold">300</div>
+                <div className="uppercase text-gray-700">#f0abfc</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-fuchsia-400 rounded"></div>
+                <div className="font-bold">400</div>
+                <div className="uppercase text-gray-700">#e879f9</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-fuchsia-500 rounded"></div>
+                <div className="font-bold">500</div>
+                <div className="uppercase text-gray-700">#d946ef</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-fuchsia-600 rounded"></div>
+                <div className="font-bold">600</div>
+                <div className="uppercase text-gray-700">#c026d3</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-fuchsia-700 rounded"></div>
+                <div className="font-bold">700</div>
+                <div className="uppercase text-gray-700">#a21caf</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-fuchsia-800 rounded"></div>
+                <div className="font-bold">800</div>
+                <div className="uppercase text-gray-700">#86198f</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-fuchsia-900 rounded"></div>
+                <div className="font-bold">900</div>
+                <div className="uppercase text-gray-700">#701a75</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-fuchsia-950 rounded"></div>
+                <div className="font-bold">950</div>
+                <div className="uppercase text-gray-700">#4a044e</div>
+            </div>
+
+        </div>
+    </div>     
+
+    {/* Pink */}
+    <div className="flex mb-5">
+    <div className="font-bold w-32 p-4">Pink</div>
+        <div className="flex flex-grow justify-center">
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-pink-50 rounded"></div>
+                <div className="font-bold">50</div>
+                <div className="uppercase text-gray-700">#fdf2f8</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-pink-100 rounded"></div>
+                <div className="font-bold">100</div>
+                <div className="uppercase text-gray-700">#fce7f3</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-pink-200 rounded"></div>
+                <div className="font-bold">200</div>
+                <div className="uppercase text-gray-700">#fbcfe8</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-pink-300 rounded"></div>
+                <div className="font-bold">300</div>
+                <div className="uppercase text-gray-700">#f9a8d4</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-pink-400 rounded"></div>
+                <div className="font-bold">400</div>
+                <div className="uppercase text-gray-700">#f472b6</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-pink-500 rounded"></div>
+                <div className="font-bold">500</div>
+                <div className="uppercase text-gray-700">#ec4899</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-pink-600 rounded"></div>
+                <div className="font-bold">600</div>
+                <div className="uppercase text-gray-700">#db2777</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-pink-700 rounded"></div>
+                <div className="font-bold">700</div>
+                <div className="uppercase text-gray-700">#be185d</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-pink-800 rounded"></div>
+                <div className="font-bold">800</div>
+                <div className="uppercase text-gray-700">#9d174d</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-pink-900 rounded"></div>
+                <div className="font-bold">900</div>
+                <div className="uppercase text-gray-700">#831843</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-pink-950 rounded"></div>
+                <div className="font-bold">950</div>
+                <div className="uppercase text-gray-700">#500724</div>
+            </div>
+
+        </div>
+    </div>  
+
+    {/* Rose */}
+    <div className="flex mb-5">
+    <div className="font-bold w-32 p-4">Rose</div>
+        <div className="flex flex-grow justify-center">
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-rose-50 rounded"></div>
+                <div className="font-bold">50</div>
+                <div className="uppercase text-gray-700">#fff1f2</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-rose-100 rounded"></div>
+                <div className="font-bold">100</div>
+                <div className="uppercase text-gray-700">#ffe4e6</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-rose-200 rounded"></div>
+                <div className="font-bold">200</div>
+                <div className="uppercase text-gray-700">#fecdd3</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-rose-300 rounded"></div>
+                <div className="font-bold">300</div>
+                <div className="uppercase text-gray-700">#fda4af</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-rose-400 rounded"></div>
+                <div className="font-bold">400</div>
+                <div className="uppercase text-gray-700">#fb7185</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-rose-500 rounded"></div>
+                <div className="font-bold">500</div>
+                <div className="uppercase text-gray-700">#f43f5e</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-rose-600 rounded"></div>
+                <div className="font-bold">600</div>
+                <div className="uppercase text-gray-700">#e11d48</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-rose-700 rounded"></div>
+                <div className="font-bold">700</div>
+                <div className="uppercase text-gray-700">#be123c</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-rose-800 rounded"></div>
+                <div className="font-bold">800</div>
+                <div className="uppercase text-gray-700">#9f1239</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-rose-900 rounded"></div>
+                <div className="font-bold">900</div>
+                <div className="uppercase text-gray-700">#881337</div>
+            </div>
+
+            <div className="flex flex-col items-start m-1">
+                <div className="w-20 h-12 bg-rose-950 rounded"></div>
+                <div className="font-bold">950</div>
+                <div className="uppercase text-gray-700">#4c0519</div>
+            </div>
+
+        </div>
+    </div>
+
     </div>
   );
 };
