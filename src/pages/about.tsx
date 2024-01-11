@@ -6,7 +6,11 @@ export default function About() {
   return (
     <RootLayout title="About">
 
-    <Colors />
+    <div className="mt-20">
+      <p className="text-center justify-center text-4xl bg-sky-500">Color Palette</p>
+      <Colors />
+    </div>
+
     <div className="p-20 mt-10">
       <Alert />
       <div className="px-4 sm:px-0">
