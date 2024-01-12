@@ -2,7 +2,7 @@ import RootLayout from "@/app/layout"
 
 export default function Shabi() {
 return (
-  <RootLayout title="Shabi">
+  <RootLayout title="傻逼">
     <div className="relative bg-black h-screen flex flex-col justify-between">
 
         <div className="absolute left-6 top-36 bottom-6 w-1 bg-gradient-to-b from-cyan-400 to-pink-600">
