@@ -6,6 +6,11 @@ export default function About() {
   return (
     <RootLayout title="About">
 
+    <div className="text-center justify-center mt-20 h-screenq">
+      <p>Hello world</p>
+    </div>
+
+
     <div className="mt-20">
       <p className="text-center justify-center text-4xl bg-sky-500">Color Palette</p>
       <Colors />
