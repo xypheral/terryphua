@@ -14,8 +14,8 @@ const Landing = () => {
                 <p className="text-2xl mt-3 ml-16 font-bold bg-clip-text text-transparent bg-gradient-to-r from-violet-800 to-violet-400">TERRY</p>
             </div>
 
-            <div className="w-full h-100 mb-24 flex justify-center">
-                <p className="text-6xl ml-16 font-bold text-black">
+            <div className="w-full h-100 mb-24 flex items-center justify-center">
+                <p className="text-6xl font-bold text-black">
                     <span className="block">Welcome to</span>
                     <span className="inline">my </span>
                     <span className="relative inline-block">

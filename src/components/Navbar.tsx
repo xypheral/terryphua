@@ -12,16 +12,16 @@ const Navbar = () => {
                         <Image src={Icon} alt="Home" height={64} width={64} />
                     </Link>
                 </li>
-                <li className="text-xl font-bold bg-clip-text text-black hover:text-white transition duration-300">
+                <li className="text-xl font-bold bg-clip-text text-violet-700 hover:text-violet-300 transition duration-300">
                     <Link href="/about">About</Link>
                 </li>
-                <li className="text-xl font-bold bg-clip-text text-black hover:text-white transition duration-300">
+                <li className="text-xl font-bold bg-clip-text text-violet-700 hover:text-violet-300 transition duration-300">
                     <Link href="/projects">Projects</Link>
                 </li>
-                <li className="text-xl font-bold bg-clip-text text-black hover:text-white transition duration-300">
+                <li className="text-xl font-bold bg-clip-text text-violet-700 hover:text-violet-300 transition duration-300">
                     <Link href="/contact">Contact</Link>
                 </li>
-                <li className="text-xl font-bold bg-clip-text text-black hover:text-white transition duration-300">
+                <li className="text-xl font-bold bg-clip-text text-violet-700 hover:text-violet-300 transition duration-300">
                     <Link href="/shabi">傻逼</Link>
                 </li>
             </ul>

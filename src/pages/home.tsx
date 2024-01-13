@@ -8,7 +8,6 @@ export default function Home() {
   return (
     <main className="flex flex-col justify-center">
       <Landing />
-      <Hero />
       <Middle />
       <Footer />
     </main>
