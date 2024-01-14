@@ -4,6 +4,10 @@ import projects from '../data/projects.json';
 export default function Projects() {
   return (
     <RootLayout title="Projects">
+
+<div className="absolute left-6 top-36 bottom-6 w-1 bg-gradient-to-b from-pink-400 to-violet-600">
+                <p className="text-lg font-bold transform -rotate-90 absolute top-[-50px] left-[-20px] whitespace-nowrap bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-800">TPCH</p>
+            </div>
         <div className="h-screen flex items-center justify-center bg-white">
             <div className="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
                 <h2 className="text-3xl text-center mb-10">Projects</h2>

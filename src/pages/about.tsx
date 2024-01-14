@@ -6,6 +6,10 @@ export default function About() {
     <RootLayout title="About">
 
     <div className="p-20 mt-5">
+
+    <div className="absolute left-6 top-36 bottom-6 w-1 bg-gradient-to-b from-pink-400 to-violet-600">
+                <p className="text-lg font-bold transform -rotate-90 absolute top-[-50px] left-[-20px] whitespace-nowrap bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-800">TPCH</p>
+            </div>
       <Alert />
       <div className="px-4 sm:px-0">
         <h3 className="text-base font-semibold leading-7 text-gray-900">Personal Information</h3>

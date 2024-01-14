@@ -4,6 +4,10 @@ export default function Contact() {
   return (
     <RootLayout title="Contact">
       <div className="flex h-screen mt-16" style={{ height: 'calc(100vh - 4rem)' }}>
+
+      <div className="absolute left-6 top-36 bottom-6 w-1 bg-gradient-to-b from-pink-400 to-violet-600">
+                <p className="text-lg font-bold transform -rotate-90 absolute top-[-50px] left-[-20px] whitespace-nowrap bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-800">TPCH</p>
+            </div>
         <div className="w-1/2 flex items-center justify-center bg-white">
           <div>
             <h1 className="text-3xl">Contact Information</h1>
